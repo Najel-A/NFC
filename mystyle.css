@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body {
+    font-family: 'monstseratt', sans-serif;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    background-attachment: fixed;
+    max-width: 100%;
+    background-color: #464646;
+    padding-top: 8px;
+    text-align: center;
+    color: #ffffff;
+  }
+
+  .linkedin {
+    background-color: #0080FF;
+    border: none;
+    color: white;
+    padding: 15px 48px;
+    width: 70%;
+    margin: 15px;
+    font-size: 32px;
+  }
+
+  .facebook {
+    background-color: #0000FF;
+    border: none;
+    color: white;
+    padding: 15px 48px;
+    width: 70%;
+    margin: 15px;
+    font-size: 32px;
+  }
+
+  .snpachat {
+    background-color: #FFFF00;
+    border: none;
+    color:black;
+    padding: 15px 48px;
+    width: 70%;
+    margin: 15px;
+    font-size: 32px;
+  }
+
+  .instagram {
+    background-color: #FF6666;
+    border: none;
+    color: white;
+    padding: 15px 48px;
+    width: 70%;
+    margin: 15px;
+    font-size: 32px;
+  }
+
+  .round {
+      border-radius: 50%;
+      width: 200px;
+      height: 195px;
+      margin: 5px;
+  }
