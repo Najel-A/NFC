@@ -5,32 +5,31 @@
 }
 
 body {
-    font-family: 'monstseratt', sans-serif;
-}
-
-body, html {
     height: 100%;
     margin: 0;
     background-attachment: fixed;
     max-width: 100%;
+    height: auto;
     background-color: #464646;
-    padding-top: 8px;
+    padding-top: 20px;
     text-align: center;
     color: #ffffff;
+    background-image: none;
   }
 
   .linkedin {
-    background-color: #0080FF;
+    background-color: blue;
     border: none;
     color: white;
     padding: 15px 48px;
     width: 70%;
     margin: 15px;
     font-size: 32px;
+    
   }
 
-  .facebook {
-    background-color: #0000FF;
+  .twitter {
+    background-color: #0080FF;
     border: none;
     color: white;
     padding: 15px 48px;
@@ -59,9 +58,19 @@ body, html {
     font-size: 32px;
   }
 
+  .tiktok {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 48px;
+    width: 70%;
+    margin: 15px;
+    font-size: 32px;
+  }
+
   .round {
       border-radius: 50%;
       width: 200px;
-      height: 195px;
+      height: 190px;
       margin: 5px;
   }
