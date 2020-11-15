@@ -37,7 +37,7 @@ function time() {
         document.body.style.backgroundSize = "cover";
     }
     else {
-        document.body.style.backgroundImage = "url(Night.jpg)";
+        document.body.style.backgroundImage = "url(Nighttime.jpg)";
         document.body.style.backgroundSize = "cover";
         document.body.style.backgroundRepeat = "no-repeat";
     }
