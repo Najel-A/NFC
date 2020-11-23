@@ -71,6 +71,7 @@ body {
   .round {
       border-radius: 50%;
       width: 200px;
-      height: 175px;
-      margin: 5px;
+      height: 200px;
+      position: relative;
+      overflow: hidden;
   }
