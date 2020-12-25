@@ -28,6 +28,11 @@ function TikTok() {
     window.open(link, "_blank")
 }
 
+function Suprise() {
+    var link = window.location.href("surpise.html")
+    window.open(link, "_blank")
+}
+
 // Changes background image based on time
 function time() {
     var d = new Date();
