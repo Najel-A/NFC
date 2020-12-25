@@ -8,12 +8,12 @@ body {
     margin: 0;
     background-attachment: fixed;
     max-width: 100%;
-    height: auto;
+    height: 100vh;
     background-color: #464646;
     padding-top: 20px;
     text-align: center;
     color: #ffffff;
-    background-image: url(./Background.png) no-repeat center center fixed;
+    background-image: url(./pictures/Background.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -23,6 +23,7 @@ body {
   .linkedin {
     background-color: blue;
     border: none;
+    border-radius: 35px;
     color: white;
     padding: 15px 48px;
     width: 70%;
@@ -34,6 +35,7 @@ body {
   .twitter {
     background-color: #0080FF;
     border: none;
+    border-radius: 35px;
     color: white;
     padding: 15px 48px;
     width: 70%;
@@ -44,6 +46,7 @@ body {
   .snpachat {
     background-color: #FFFF00;
     border: none;
+    border-radius: 35px;
     color:black;
     padding: 15px 48px;
     width: 70%;
@@ -54,6 +57,7 @@ body {
   .instagram {
     background-color: #FF6666;
     border: none;
+    border-radius: 35px;
     color: white;
     padding: 15px 48px;
     width: 70%;
@@ -64,6 +68,7 @@ body {
   .tiktok {
     background-color: black;
     border: none;
+    border-radius: 35px;
     color: white;
     padding: 15px 48px;
     width: 70%;
@@ -73,8 +78,8 @@ body {
 
   .round {
       border-radius: 50%;
-      width: 200px;
-      height: 200px;
+      width: 15vh;
+      height: 15vh;
       position: relative;
       overflow: hidden;
   }

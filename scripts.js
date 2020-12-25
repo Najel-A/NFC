@@ -33,11 +33,11 @@ function time() {
     var d = new Date();
     var t = d.getHours();
     if ((t < 19) && (t > 6)) {
-        document.body.style.backgroundImage = "url(Background.png)";
+        document.body.style.backgroundImage = "url(./pictures/Background.png)";
         document.body.style.backgroundSize = "cover";
     }
     else {
-        document.body.style.backgroundImage = "url(Nighttime.jpg)";
+        document.body.style.backgroundImage = "url(./pictures/Nighttime.jpg)";
         document.body.style.backgroundSize = "cover";
         document.body.style.backgroundRepeat = "no-repeat";
     }
