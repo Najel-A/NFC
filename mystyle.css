@@ -1,87 +1,87 @@
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
 }
 
 body {
-    margin: 0;
-    max-width: 100%;
-    height: 100vh;
-    background-color: #464646;
-    padding-top: 20px;
-    text-align: center;
-    color: #ffffff;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-image: url(./pictures/Background.png);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
+  margin: 0;
+  max-width: 100%;
+  height: 100vh;
+  background-color: #464646;
+  padding-top: 20px;
+  text-align: center;
+  color: #ffffff;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: url(./pictures/Background.png);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
-  .linkedin {
-    background-color: blue;
-    border: none;
-    border-radius: 35px;
-    color: white;
-    padding: 15px 48px;
-    width: 70%;
-    margin: 15px;
-    font-size: 32px;
-    
-  }
+.linkedin {
+  background-color: blue;
+  border: none;
+  border-radius: 35px;
+  color: white;
+  padding: 15px 48px;
+  width: 70%;
+  margin: 15px;
+  font-size: 32px;
+  
+}
 
-  .twitter {
-    background-color: #0080FF;
-    border: none;
-    border-radius: 35px;
-    color: white;
-    padding: 15px 48px;
-    width: 70%;
-    margin: 15px;
-    font-size: 32px;
-  }
+.twitter {
+  background-color: #0080FF;
+  border: none;
+  border-radius: 35px;
+  color: white;
+  padding: 15px 48px;
+  width: 70%;
+  margin: 15px;
+  font-size: 32px;
+}
 
-  .snpachat {
-    background-color: #FFFF00;
-    border: none;
-    border-radius: 35px;
-    color:black;
-    padding: 15px 48px;
-    width: 70%;
-    margin: 15px;
-    font-size: 32px;
-  }
+.snpachat {
+  background-color: #FFFF00;
+  border: none;
+  border-radius: 35px;
+  color:black;
+  padding: 15px 48px;
+  width: 70%;
+  margin: 15px;
+  font-size: 32px;
+}
 
-  .instagram {
-    background-color: #FF6666;
-    border: none;
-    border-radius: 35px;
-    color: white;
-    padding: 15px 48px;
-    width: 70%;
-    margin: 15px;
-    font-size: 32px;
-  }
+.instagram {
+  background-color: #FF6666;
+  border: none;
+  border-radius: 35px;
+  color: white;
+  padding: 15px 48px;
+  width: 70%;
+  margin: 15px;
+  font-size: 32px;
+}
 
-  .tiktok {
-    background-color: black;
-    border: none;
-    border-radius: 35px;
-    color: white;
-    padding: 15px 48px;
-    width: 70%;
-    margin: 15px;
-    font-size: 32px;
-  }
+.tiktok {
+  background-color: black;
+  border: none;
+  border-radius: 35px;
+  color: white;
+  padding: 15px 48px;
+  width: 70%;
+  margin: 15px;
+  font-size: 32px;
+}
 
-  .round {
-      border-radius: 50%;
-      width: 15vh;
-      height: 15vh;
-      position: relative;
-      overflow: hidden;
-  }
+.round {
+    border-radius: 50%;
+    width: 15vh;
+    height: 15vh;
+    position: relative;
+    overflow: hidden;
+}

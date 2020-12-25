@@ -28,8 +28,8 @@ function TikTok() {
     window.open(link, "_blank")
 }
 
-function Suprise() {
-    var link = window.location.href("surpise.html")
+function Boy() {
+    var link = asd
     window.open(link, "_blank")
 }
 
