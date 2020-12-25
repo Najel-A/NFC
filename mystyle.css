@@ -78,6 +78,18 @@ body {
   font-size: 32px;
 }
 
+.bored {
+  background-color: rgb(31, 214, 184);
+  border: none;
+  border-radius: 35px;
+  color: white;
+  padding: 15px 48px;
+  width: 70%;
+  margin: 15px;
+  font-size: 32px;
+}
+
+
 .round {
     border-radius: 50%;
     width: 15vh;
