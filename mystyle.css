@@ -15,7 +15,7 @@ body {
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-image: url(./pictures/Background.png);
+  background: linear-gradient(141deg, #1a0fb8 0%, #1fdbcb 51%, #2ce8a0 75%);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
