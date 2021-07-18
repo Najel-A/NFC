@@ -28,6 +28,11 @@ function TikTok() {
     window.open(link, "_blank")
 }
 
+function Venmo() {
+    var link = "https://venmo.com/code?user_id=2550309578604544139&created=1626583039.887917&printed=1"
+    window.open(link, "_blank")
+}
+
 function Boy() {
     var link = asd
     window.open(link, "_blank")
